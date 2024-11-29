@@ -1,0 +1,27 @@
+{
+  "name": "@signal/examples",
+  "version": "1.0.0",
+  "description": "Signal - Example applications",
+  "author": "Signal Team",
+  "license": "MIT",
+  "scripts": {
+    "build": "npx hardhat compile",
+    "test": "npx hardhat test",
+    "clean": "npx hardhat clean"
+  },
+  "dependencies": {
+    "@signal/protocol": "workspace:*"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "@nomicfoundation/hardhat-ethers": "^3.0.0",
+    "hardhat": "^2.19.0",
+    "typescript": "^5.0.0"
+  },
+  "keywords": [
+    "cross-chain",
+    "messaging",
+    "signal",
+    "examples"
+  ]
+}

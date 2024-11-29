@@ -1,0 +1,35 @@
+{
+  "name": "signal",
+  "version": "1.0.0",
+  "description": "Lightweight open-source security layer for cross-chain communication",
+  "author": "Signal Team",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "build": "npm run build --workspaces",
+    "test": "npm run test --workspaces",
+    "clean": "npm run clean --workspaces"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.0",
+    "typescript": "^5.0.0"
+  },
+  "keywords": [
+    "cross-chain",
+    "security-layer",
+    "blockchain",
+    "evm",
+    "solana",
+    "cosmos",
+    "decentralized",
+    "lightweight"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourorg/signal"
+  }
+}

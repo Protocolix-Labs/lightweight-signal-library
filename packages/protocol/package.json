@@ -1,0 +1,24 @@
+{
+  "name": "@signal/protocol",
+  "version": "1.0.0",
+  "description": "Signal - Core cross-chain security layer",
+  "author": "Signal Team",
+  "license": "MIT",
+  "scripts": {
+    "build": "npx hardhat compile",
+    "test": "npx hardhat test",
+    "clean": "npx hardhat clean"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "@nomicfoundation/hardhat-ethers": "^3.0.0",
+    "hardhat": "^2.19.0",
+    "typescript": "^5.0.0"
+  },
+  "keywords": [
+    "cross-chain",
+    "security-layer",
+    "blockchain",
+    "signal"
+  ]
+}
