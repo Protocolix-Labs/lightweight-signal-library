@@ -28,7 +28,7 @@ Signal is a **security standard** that can be adapted. Anyone can have their cus
 ![License: MIT](https://img.shields.io/badge/Signal-Architecture-blue)
 
 
-![Signal architecture diagram showing the layered structure: applications at top, Signal security layer in middle, and blockchain networks at bottom, with arrows indicating cross-chain communication flow](./docs/architecture.md)
+![Signal architecture diagram showing the layered structure: applications at top, Signal security layer in middle, and blockchain networks at bottom, with arrows indicating cross-chain communication flow](./docs/architecture.png)
 
 
 
