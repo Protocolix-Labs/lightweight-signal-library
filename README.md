@@ -129,6 +129,3 @@ Contributions are welcome! Please read our contributing guidelines before submit
 
 MIT - see [LICENSE](./LICENSE) for details
 
-## Security
-
-For security concerns, please contact: security@signal.network
